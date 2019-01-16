@@ -1,5 +1,5 @@
 # FStar
-My efforts to binging FStar Lang out of INRIA.
+My efforts to binging [FStar Language](http://fstar-lang.org) out of INRIA.
 
 **This repo and all of it's sub-repos are under construction**
 
